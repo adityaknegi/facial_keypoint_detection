@@ -4,5 +4,4 @@ predict keypoint positions on face images
 
 dataset https://www.kaggle.com/c/facial-keypoints-detection/data
 
-facial_keypoint_detection/ss.png
-      
+https://github.com/adityaknegi/facial_keypoint_detection/blob/master/ss.png      
